@@ -1,0 +1,14 @@
+html{
+  background-color: black;
+  color: white;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 70px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 70vh; 
+  text-align: center; 
+}
